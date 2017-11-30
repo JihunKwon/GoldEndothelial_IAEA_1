@@ -51,6 +51,7 @@ protected:
     void DistributeGnps8HPI(G4LogicalVolume *pCubeLog);
     void DistributeGnps16HPI(G4LogicalVolume *pCubeLog);
     void DistributeGnps24HPI(G4LogicalVolume *pCubeLog);
+    void DistributeGnps36HPI(G4LogicalVolume *pCubeLog);
 };
 
 #endif
